@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace jrintegracaoipm.Models.Enum
 {
-    public enum PlnTipoPlano : int
+    public enum TipoPlano : int
     {
        ReceitaDeducao = 1,
        Despesa = 2,

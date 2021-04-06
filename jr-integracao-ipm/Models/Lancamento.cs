@@ -15,11 +15,11 @@ namespace jrintegracaoipm.Models
         public DateTime LanData { get; set; }
         public string LanHistorico { get; set; }
         public double LanValor { get; set; }
-        public FlagEstorno FlagEstorno { get; set; }
+        public IndicativoBooleano FlagEstorno { get; set; }
         public TlcCodigo TlcCodigo  { get; set; }
-        public PlnTipoPlano PlnTipoPlano{ get; set; }
+        public TipoPlano PlnTipoPlano{ get; set; }
         public string Plncodigo { get; set; }
-        public PlnTipoPlano PlnTipoPlanoContra { get; set; }
+        public TipoPlano PlnTipoPlanoContra { get; set; }
         public string PlnCodigoContra { get; set; }
         public int VinCodigo { get; set; }
         }

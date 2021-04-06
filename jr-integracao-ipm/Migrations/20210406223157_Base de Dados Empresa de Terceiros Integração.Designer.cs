@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 using jrintegracaoipm.Data;
@@ -9,9 +10,10 @@ using jrintegracaoipm.Data;
 namespace jrintegracaoipm.Migrations
 {
     [DbContext(typeof(IntegracaoContext))]
-    partial class IntegracaoContextModelSnapshot : ModelSnapshot
+    [Migration("20210406223157_Base de Dados Empresa de Terceiros Integração")]
+    partial class BasedeDadosEmpresadeTerceirosIntegração
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
