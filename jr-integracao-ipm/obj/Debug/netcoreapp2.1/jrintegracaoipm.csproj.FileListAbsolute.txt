@@ -33,3 +33,4 @@ C:\Users\ValeAzul\source\repos\jr-integracao-ipm\jr-integracao-ipm\obj\Debug\net
 C:\Users\ValeAzul\source\repos\jr-integracao-ipm\jr-integracao-ipm\obj\Debug\netcoreapp2.1\jrintegracaoipm.pdb
 C:\Users\ValeAzul\source\repos\jr-integracao-ipm\jr-integracao-ipm\obj\Debug\netcoreapp2.1\jrintegracaoipm.genruntimeconfig.cache
 C:\Users\ValeAzul\source\repos\jr-integracao-ipm\jr-integracao-ipm\obj\Debug\netcoreapp2.1\jrintegracaoipm.csproj.CopyComplete
+C:\Users\ValeAzul\source\repos\jr-integracao-ipm\jr-integracao-ipm\obj\Debug\netcoreapp2.1\Razor\Views\Lancamento\Index.cshtml.g.cs
